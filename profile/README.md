@@ -1,4 +1,4 @@
-![goldstation](https://github.com/CrederLabs/DIGau-Collateral-Manager/assets/34641838/7de436c5-27f4-4669-aeb9-cc999201ef0b)
+![goldstation](https://github.com/CrederLabs/.github/assets/34641838/4b39e76e-984e-45e4-9983-324ddc80708d)
 
 # Hello, World ⛵︎
 
